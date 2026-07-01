@@ -96,15 +96,15 @@ Campus-Placement-Data-Analysis/
 
 ### Specialization vs Placement
 
-![Placement Chart](Campus%20placement%20data%20analysis/assets/images/2_specialisation_vs_Placement_chart.png)
+![Specializationt](Campus%20placement%20data%20analysis/assets/images/2_specialisation_vs_Placement_chart.png)
 
 ### Employability Test Distribution
 
-![Placement Chart](Campus%20placement%20data%20analysis/assets/images/3_employability_distribution.png)
+![Employability Test Distribution](Campus%20placement%20data%20analysis/assets/images/3_employability_distribution.png)
 
 ### Correlation Heatmap
 
-![Placement Chart](Campus%20placement%20data%20analysis/assets/images/4_correlation_heatmap.png)
+![Correlation Heatmap](Campus%20placement%20data%20analysis/assets/images/4_correlation_heatmap.png)
 
 ### Program Output
 
